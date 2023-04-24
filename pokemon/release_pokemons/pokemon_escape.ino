@@ -23,7 +23,7 @@ void setup(){
     pushButton(Button::B, 500, 5);
     open_box();
     for(int release_poke_num = 0; release_poke_num < 30; release_poke_num++){
-        // ポケモンを逃がす
+        // ポケモン　を逃がす
         release_pokemon();
         // カーソルを次のポケモンの場所に移動させる
         pushHatButton(Hat::RIGHT, 500);
