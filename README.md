@@ -1,5 +1,4 @@
 Nintendo SWitchをArduino Leonardoを使って自動化します
-レイドバトルを自動化するスケッチを含んでいます。
 
 ## 必要なもの
 **ハードウェア**
