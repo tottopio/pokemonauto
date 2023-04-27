@@ -3,6 +3,8 @@ Nintendo SWitchをArduino Leonardoを使って自動化します
 ## 必要なもの
 **ハードウェア**
 - Arduino Leonardo
+- Nitendow switch
+- USBケーブルtypec
 
 **ソフトウェア**
 - Arduino IDE
